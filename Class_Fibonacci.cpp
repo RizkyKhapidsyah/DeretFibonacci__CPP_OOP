@@ -7,7 +7,6 @@
 	Modified by Rizky Khapidsyah
 */
 
-
 #define Spasi " "
 #define GMin '-'
 #define Judul "DERET FIBONACCI"
@@ -21,7 +20,6 @@ class Fibonacci
 public:
 	int n, f_n, f_n1, f_n2;
 	
-
 	void DeretPertama(int f_n1Param, int f_n2Param)
 	{
 		cout << f_n2Param << Spasi;
